@@ -6,7 +6,7 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "logo-v2.png",
       "type": "image/png",
       "sizes": "512x512"
     }
